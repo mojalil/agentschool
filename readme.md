@@ -28,7 +28,7 @@
 
 ## 🤔 About
 
-Building agentic systems — autonomous programs that perceive, plan, and act — is a rapidly evolving field. **agentschool** gathers the **essential learning path**, **key open-source frameworks**, and **community tools** you need to design, train, and deploy your first AI agents.
+Building agentic systems, autonomous programs that perceive, plan, and act is a rapidly evolving field. **agentschool** gathers the **essential learning path**, **key open-source frameworks**, and **community tools** you need to design, train, and deploy your first AI agents.
 
 ---
 
