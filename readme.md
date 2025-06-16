@@ -6,8 +6,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Open Source ❤️](https://img.shields.io/badge/open%20source-friendly-blue.svg)](#)
 
-> **agentschool**: your open-source guild for learning to build autonomous AI agents.  
-> Curated roadmap, examples, tutorials, and tooling to guide beginners through the fast-moving world of agentic AI.
+> **agentschool**: your comprehensive guide to building autonomous AI agents.  
+> A curated collection of learning resources, examples, and tools to help you master the art of creating intelligent agents.
 
 ---
 
