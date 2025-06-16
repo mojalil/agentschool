@@ -1,6 +1,5 @@
 # agentschool 🚀
 
-[![CI](https://img.shields.io/github/actions/workflow/status/mojalil/agentschool/ci.yml?branch=main)](https://github.com/mojalil/agentschool/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/github/contributors/mojalil/agentschool)](https://github.com/mojalil/agentschool/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/mojalil/agentschool)](https://github.com/mojalil/agentschool/issues)
