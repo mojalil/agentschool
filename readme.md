@@ -77,6 +77,7 @@ You should see your first agent send a "Hello, world!"-style message via the con
 * **Tutorials**: see [resources/tutorials.md](resources/tutorials.md)
 * **OSS Frameworks**: see [resources/repos.md](resources/repos.md)
 * **Tooling & SDKs**: see [resources/tools.md](resources/tools.md)
+* **Reports & Research**: see [resources/reports.md](resources/reports.md)
 
 ---
 
