@@ -62,14 +62,6 @@ Building agentic systems, autonomous programs that perceive, plan, and act is a 
 
 > _Coming soon_: Examples of agents
 
-Run the minimal Python agent demo:
-
-```bash
-python examples/basic_agent.py
-```
-
-You should see your first agent send a "Hello, world!"-style message via the configured LLM.
-
 ---
 
 ## 📖 Resources
@@ -78,6 +70,7 @@ You should see your first agent send a "Hello, world!"-style message via the con
 * **OSS Frameworks**: see [resources/repos.md](resources/repos.md)
 * **Tooling & SDKs**: see [resources/tools.md](resources/tools.md)
 * **Reports & Research**: see [resources/reports.md](resources/reports.md)
+* **Communties**: see [resources/communities.md](resources/communites.md)
 
 ---
 
